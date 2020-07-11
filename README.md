@@ -10,7 +10,7 @@ Feel free to suggest any improvements!!
 
 (Ignore The Weird Generation Algorithm!!)
 
-# Instructions
+# Requirements
 1. You will have to have Python installed.
 (Python 3 or above)
 
