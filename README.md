@@ -12,6 +12,6 @@ Feel free to suggest any improvements!!
 
 # Instructions
 1. You will have to have Python installed.
-##  Python 3+
+(Python 3 or above)
 
 If you enjoyed this you should probably look at my YouTube channel : https://www.youtube.com/channel/UC9Nx4BWhT5D6f7ZSfS9mU0A?view_as=subscriber
